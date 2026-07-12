@@ -38,7 +38,7 @@ allowed_origins = [
     "http://127.0.0.1:5173",
     "http://localhost:4173",   # vite preview
     "http://localhost:3000",   # alternative dev port
-    "https://sage-queijadas-260325.netlify.app", # Netlify live app
+    "https://deployment-frontend-eight.vercel.app", # Netlify live app
     "https://deployment-frontend-eight.vercel.app" # Current Netlify live app
 ]
 
